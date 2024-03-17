@@ -19,14 +19,18 @@
 
 <h3 align="center"> Linguagens e Frameworks que eu uso (Até o Momento 😊): </h3>
 <div align="center">
-  <img align="left" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left" alt="Dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  <img align="left" alt="Flutter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 10px;">
+  <img align="center" alt="Dart" height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" style="margin-right: 10px;">
+  <img align="center" alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 10px;">
+  <img align="center" alt="Java" height="50" src="https://www.svgrepo.com/download/184143/java.svg" style="margin-right: 10px;">
+  <img align="center" alt="JavaScript" height="50" src="https://www.svgrepo.com/download/349419/javascript.svg" style="margin-right: 10px;">
+  <img align="center" alt="C" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="margin-right: 10px;">
 </div>
+
 
 <br/>
 
-<h3 align="center">Quer conversar comigo ou chamar para tomar um café? Me contate por aqui:</h3>
+<h3 align="center">Mande um alô sempre que quiser!:</h3>
 <div align="center">   
   <a href="https://www.instagram.com/mraphael.py/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
