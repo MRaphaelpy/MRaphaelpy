@@ -1,5 +1,7 @@
+
 <div align="center">
   <h3><strong>Olá!! Eu sou Marcos Rafael, desenvolvedor Dart com o framework Flutter</strong></h3>
+
 </div>
 
 <div align="center">
@@ -19,17 +21,18 @@
 
 <h3 align="center"> Linguagens e Frameworks que eu uso (Até o Momento 😊): </h3>
 <div align="center">
-  <img align="center" alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 10px;">
-  <img align="center" alt="Dart" height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" style="margin-right: 10px;">
-  <img align="center" alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 10px;">
-  <img align="center" alt="Java" height="50" src="https://www.svgrepo.com/download/184143/java.svg" style="margin-right: 10px;">
-  <img align="center" alt="JavaScript" height="50" src="https://www.svgrepo.com/download/349419/javascript.svg" style="margin-right: 10px;">
-  <img align="center" alt="C" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="margin-right: 10px;">
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 </div>
 
 
 <br/>
-
 <h3 align="center">Mande um alô sempre que quiser!:</h3>
 <div align="center">   
   <a href="https://www.instagram.com/mraphael.py/" target="_blank">
