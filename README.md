@@ -1,53 +1,97 @@
+<h1 align = "center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<div align="center">
-  <h3><strong>Olá!! Eu sou Marcos Rafael, desenvolvedor Dart com o framework Flutter</strong></h3>
+<p align = "center"> My name is Raphael and I'm a full stack developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Ceará, Brasil</b>.</p>
 
-</div>
+###
 
-<div align="center">
-  <a href="https://discord.com/users/445933396565295105">
-    <img src="https://lanyard.cnrad.dev/api/445933396565295105?borderRadius=8px&hideDiscrim=true"/>
+<br clear="both">
+<img align="right" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/depxc3c-2c74dc75-552f-4b74-9d49-a01ec4c8ea90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGVweGMzYy0yYzc0ZGM3NS01NTJmLTRiNzQtOWQ0OS1hMDFlYzRjOGVhOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ACqc7kQ3zva5d9HmQ6rAM2TWKQ_6KA_YgK4pzBCzpbo"  />
+
+<p align="left">➽ 📚 Computer science student on UNIVASF</p>
+
+###
+
+<p align="left">➽ 🖥️ I'm currently studying React and Laravel</p>
+
+###
+
+<p align="left">➽ 👨‍💻 I'm an enthusiast in Android development with Flutter, React Native, and Kotlin</p>
+
+###
+
+<p align="left">➽ Linux && Music Lover 😍:</p>
+<div align="left" height = "20">
+  <a href="https://open.spotify.com/user/1mp3r4d0r">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1mp3r4d0r&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-<br/>
+###
 
-<div align="center">
-  <a href="https://github.com/MRaphaelpy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRaphaelpy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaphaelpy&layout=compact&langs_count=7&theme=dark"/>   
+<br clear="both">
+
+<h2 align="left">You can find me here:</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://wa.me/5588981870327" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/MRaphaelpy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/mraphael.py" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/mraphaelpy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="marcos.rafael@discente.univasf.edu.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/users/mraphaelpy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/mraphaelpy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
   </a>
 </div>
 
-<h3 align="center"> Linguagens e Frameworks que eu uso (Até o Momento 😊): </h3>
-<div align="center">
+###
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+<h3 align = "left">I code with</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
 </div>
 
+###
 
-<br/>
-<h3 align="center">Mande um alô sempre que quiser!:</h3>
-<div align="center">   
-  <a href="https://www.instagram.com/mraphael.py/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:mraphael.py@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/marcos-rafael-026842215/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mraphaelpy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mraphaelpy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
-  <img src="https://github.com/MRaphaelpy/MRaphaelpy/blob/output/github-contribution-grid-snake.svg">
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mraphaelpy/mraphaelpy/output/snake.svg" alt="Snake animation" />
+
+###
