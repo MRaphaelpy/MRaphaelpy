@@ -176,7 +176,7 @@
 <!-- Calendario 3D-->
 <div align="center">
   <a href="https://github.com/MRaphaelpy/MRaphaelpy/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="800" alt="Calendário de contribuições 3D" src="https://raw.githubusercontent.com/MRaphaelpy/MRaphaelpy/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="800" alt="Calendário de contribuições 3D" src="https://raw.githubusercontent.com/MRaphaelpy/MRaphaelpy/main/profile-3d-contrib/profile-night-view.svg">
   </a>
 </div>
 
